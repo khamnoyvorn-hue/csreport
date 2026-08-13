@@ -1,0 +1,2265 @@
+{
+  "dateTitle": "Upadted : 13-08-2026 1:09 PM",
+  "summary": {
+    "totalAccounts": 102,
+    "activePlayers": 56,
+    "totalRefill": 6767.525,
+    "totalWithdraw": 4064.42,
+    "netResult": 2703.105,
+    "profitMargin": 39.942297959741566
+  },
+  "csList": [
+    {
+      "csName": "cs_somphos",
+      "total": 13,
+      "play": 9,
+      "refill": 623.62,
+      "withdraw": 280.25,
+      "result": 343.37,
+      "members": [
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC06",
+          "count": 13,
+          "refill": 133.75,
+          "withdraw": 166.25,
+          "result": -32.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC15",
+          "count": 13,
+          "refill": 30.62,
+          "withdraw": 30,
+          "result": 0.620000000000001,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHP14",
+          "count": 6,
+          "refill": 17.25,
+          "withdraw": 0,
+          "result": 17.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC04",
+          "count": 4,
+          "refill": 50,
+          "withdraw": 43.5,
+          "result": 6.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC42",
+          "count": 4,
+          "refill": 260,
+          "withdraw": 0,
+          "result": 260,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "ABPPBBAKT94",
+          "count": 3,
+          "refill": 15,
+          "withdraw": 25,
+          "result": -10,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC54",
+          "count": 3,
+          "refill": 8,
+          "withdraw": 8,
+          "result": 0,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHV16",
+          "count": 3,
+          "refill": 20,
+          "withdraw": 0,
+          "result": 20,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC95",
+          "count": 2,
+          "refill": 58.5,
+          "withdraw": 0,
+          "result": 58.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "ABPPBBDLB28",
+          "count": 2,
+          "refill": 6.75,
+          "withdraw": 0,
+          "result": 6.75,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "ABPPBBAKI82",
+          "count": 1,
+          "refill": 7.5,
+          "withdraw": 7.5,
+          "result": 0,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCAPKDC09",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_somphos",
+          "username": "CKCCPKHC57",
+          "count": 1,
+          "refill": 11.25,
+          "withdraw": 0,
+          "result": 11.25,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 55.060774189410225
+    },
+    {
+      "csName": "cs_chanry",
+      "total": 13,
+      "play": 7,
+      "refill": 2552.995,
+      "withdraw": 1622.75,
+      "result": 930.2449999999999,
+      "members": [
+        {
+          "csName": "cs_chanry",
+          "username": "mkc0015",
+          "count": 24,
+          "refill": 1694.22,
+          "withdraw": 988,
+          "result": 706.22,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHC10",
+          "count": 18,
+          "refill": 217.5,
+          "withdraw": 241,
+          "result": -23.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "ABPPBBAKP29",
+          "count": 13,
+          "refill": 80,
+          "withdraw": 43.75,
+          "result": 36.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHC22",
+          "count": 6,
+          "refill": 67.5,
+          "withdraw": 45,
+          "result": 22.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "ABPPBBAKI83",
+          "count": 5,
+          "refill": 220,
+          "withdraw": 282.5,
+          "result": -62.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHP02",
+          "count": 3,
+          "refill": 31.25,
+          "withdraw": 17.5,
+          "result": 13.75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHP12",
+          "count": 3,
+          "refill": 200,
+          "withdraw": 0,
+          "result": 200,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "ABPPBBAKP31",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "ABPPBBAKP32",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCAPKDC03",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHP01",
+          "count": 1,
+          "refill": 5.025,
+          "withdraw": 5,
+          "result": 0.02500000000000036,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHP22",
+          "count": 1,
+          "refill": 12.5,
+          "withdraw": 0,
+          "result": 12.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_chanry",
+          "username": "CKCCPKHV01",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 36.437399994907935
+    },
+    {
+      "csName": "cs_mean",
+      "total": 14,
+      "play": 6,
+      "refill": 641.41,
+      "withdraw": 364.25,
+      "result": 277.16,
+      "members": [
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHV08",
+          "count": 18,
+          "refill": 97.41,
+          "withdraw": 34.5,
+          "result": 62.91,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCAPKDC01",
+          "count": 16,
+          "refill": 48,
+          "withdraw": 21,
+          "result": 27,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC37",
+          "count": 13,
+          "refill": 97.25,
+          "withdraw": 76.25,
+          "result": 21,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC55",
+          "count": 13,
+          "refill": 286,
+          "withdraw": 121.5,
+          "result": 164.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHV12",
+          "count": 5,
+          "refill": 42,
+          "withdraw": 30,
+          "result": 12,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC23",
+          "count": 3,
+          "refill": 15,
+          "withdraw": 12.5,
+          "result": 2.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC58",
+          "count": 2,
+          "refill": 13.25,
+          "withdraw": 22.5,
+          "result": -9.25,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC89",
+          "count": 2,
+          "refill": 7.5,
+          "withdraw": 8.5,
+          "result": -1,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CFPY11KRP03",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC43",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHC52",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHP15",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 37.5,
+          "result": -27.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "CKCCPKHV15",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_mean",
+          "username": "mkv0012",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 43.21105065402785
+    },
+    {
+      "csName": "cs_nich",
+      "total": 11,
+      "play": 6,
+      "refill": 230.7,
+      "withdraw": 109.5,
+      "result": 121.2,
+      "members": [
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC70",
+          "count": 11,
+          "refill": 31.25,
+          "withdraw": 57.5,
+          "result": -26.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC20",
+          "count": 8,
+          "refill": 60,
+          "withdraw": 22,
+          "result": 38,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC59",
+          "count": 6,
+          "refill": 36.5,
+          "withdraw": 30,
+          "result": 6.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC11",
+          "count": 3,
+          "refill": 11.25,
+          "withdraw": 0,
+          "result": 11.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC17",
+          "count": 3,
+          "refill": 12.95,
+          "withdraw": 0,
+          "result": 12.95,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC26",
+          "count": 3,
+          "refill": 13.75,
+          "withdraw": 0,
+          "result": 13.75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC09",
+          "count": 2,
+          "refill": 42.5,
+          "withdraw": 0,
+          "result": 42.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC16",
+          "count": 2,
+          "refill": 7.5,
+          "withdraw": 0,
+          "result": 7.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "ABPPBBAKT14",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC63",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_nich",
+          "username": "CKCCPKHC96",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 52.53576072821847
+    },
+    {
+      "csName": "cs_zeiima",
+      "total": 11,
+      "play": 6,
+      "refill": 322.5,
+      "withdraw": 151.75,
+      "result": 170.75,
+      "members": [
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC38",
+          "count": 9,
+          "refill": 22.5,
+          "withdraw": 21,
+          "result": 1.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC34",
+          "count": 6,
+          "refill": 62.75,
+          "withdraw": 33.25,
+          "result": 29.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC08",
+          "count": 4,
+          "refill": 45,
+          "withdraw": 42.5,
+          "result": 2.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC76",
+          "count": 4,
+          "refill": 25,
+          "withdraw": 50,
+          "result": -25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC13",
+          "count": 3,
+          "refill": 15.25,
+          "withdraw": 0,
+          "result": 15.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC27",
+          "count": 2,
+          "refill": 75,
+          "withdraw": 0,
+          "result": 75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "ABPPBBAKI80",
+          "count": 2,
+          "refill": 7,
+          "withdraw": 5,
+          "result": 2,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC18",
+          "count": 2,
+          "refill": 17.5,
+          "withdraw": 0,
+          "result": 17.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC49",
+          "count": 2,
+          "refill": 37.5,
+          "withdraw": 0,
+          "result": 37.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC12",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_zeiima",
+          "username": "CKCCPKHC66",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 52.945736434108525
+    },
+    {
+      "csName": "cs_theary",
+      "total": 6,
+      "play": 5,
+      "refill": 346.5,
+      "withdraw": 202.5,
+      "result": 144,
+      "members": [
+        {
+          "csName": "cs_theary",
+          "username": "CKCAPKDP08",
+          "count": 13,
+          "refill": 129.75,
+          "withdraw": 149,
+          "result": -19.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_theary",
+          "username": "CKCCPKH002",
+          "count": 5,
+          "refill": 15.75,
+          "withdraw": 0,
+          "result": 15.75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_theary",
+          "username": "CKCAPKDC07",
+          "count": 4,
+          "refill": 41,
+          "withdraw": 0,
+          "result": 41,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_theary",
+          "username": "CKCAPKDC12",
+          "count": 4,
+          "refill": 35,
+          "withdraw": 41,
+          "result": -6,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_theary",
+          "username": "CKCCPKHP09",
+          "count": 2,
+          "refill": 100,
+          "withdraw": 0,
+          "result": 100,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_theary",
+          "username": "ABPPBBAKI61",
+          "count": 1,
+          "refill": 25,
+          "withdraw": 12.5,
+          "result": 12.5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 41.55844155844156
+    },
+    {
+      "csName": "cs_ryna",
+      "total": 7,
+      "play": 4,
+      "refill": 160.25,
+      "withdraw": 107.5,
+      "result": 52.75,
+      "members": [
+        {
+          "csName": "cs_ryna",
+          "username": "CKCCPKHC68",
+          "count": 9,
+          "refill": 60.25,
+          "withdraw": 45,
+          "result": 15.25,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "lup61v0010",
+          "count": 5,
+          "refill": 25,
+          "withdraw": 45,
+          "result": -20,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "CKCAPKDP06",
+          "count": 4,
+          "refill": 30,
+          "withdraw": 0,
+          "result": 30,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "CKCCPKHC80",
+          "count": 3,
+          "refill": 10,
+          "withdraw": 17.5,
+          "result": -7.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "ABPPBBDLP29",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "CKCCPKH004",
+          "count": 1,
+          "refill": 20,
+          "withdraw": 0,
+          "result": 20,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ryna",
+          "username": "mkp0008",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 32.91731669266771
+    },
+    {
+      "csName": "cs_reth",
+      "total": 4,
+      "play": 3,
+      "refill": 483.5,
+      "withdraw": 334.75,
+      "result": 148.75,
+      "members": [
+        {
+          "csName": "cs_reth",
+          "username": "lup61CH0028",
+          "count": 10,
+          "refill": 66,
+          "withdraw": 126,
+          "result": -60,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_reth",
+          "username": "CKCAPKDC32",
+          "count": 9,
+          "refill": 397.5,
+          "withdraw": 180,
+          "result": 217.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_reth",
+          "username": "CKCCPKHC35",
+          "count": 5,
+          "refill": 15,
+          "withdraw": 28.75,
+          "result": -13.75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_reth",
+          "username": "CKCAPKDC31",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 30.765253360910034
+    },
+    {
+      "csName": "cs_kimsorn",
+      "total": 5,
+      "play": 2,
+      "refill": 548.25,
+      "withdraw": 117.5,
+      "result": 430.75,
+      "members": [
+        {
+          "csName": "cs_kimsorn",
+          "username": "CKCCPKHC71",
+          "count": 12,
+          "refill": 173.25,
+          "withdraw": 17.5,
+          "result": 155.75,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_kimsorn",
+          "username": "lup61CH0038",
+          "count": 1,
+          "refill": 300,
+          "withdraw": 0,
+          "result": 300,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_kimsorn",
+          "username": "CKCCPKHC30",
+          "count": 2,
+          "refill": 45,
+          "withdraw": 100,
+          "result": -55,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_kimsorn",
+          "username": "lup61CH0036",
+          "count": 2,
+          "refill": 20,
+          "withdraw": 0,
+          "result": 20,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_kimsorn",
+          "username": "CKCCPKHP11",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 78.56817145462837
+    },
+    {
+      "csName": "cs_phanna",
+      "total": 3,
+      "play": 2,
+      "refill": 565,
+      "withdraw": 662,
+      "result": -97,
+      "members": [
+        {
+          "csName": "cs_phanna",
+          "username": "ABPPBBDLB30",
+          "count": 20,
+          "refill": 525,
+          "withdraw": 599,
+          "result": -74,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_phanna",
+          "username": "lup6111182",
+          "count": 3,
+          "refill": 35,
+          "withdraw": 63,
+          "result": -28,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_phanna",
+          "username": "hk00717",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": -17.168141592920357
+    },
+    {
+      "csName": "cs_noy",
+      "total": 2,
+      "play": 2,
+      "refill": 25.8,
+      "withdraw": 0,
+      "result": 25.8,
+      "members": [
+        {
+          "csName": "cs_noy",
+          "username": "ABPPBBAKI95",
+          "count": 3,
+          "refill": 17.5,
+          "withdraw": 0,
+          "result": 17.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_noy",
+          "username": "bhc100",
+          "count": 3,
+          "refill": 8.3,
+          "withdraw": 0,
+          "result": 8.3,
+          "remark": 1,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 100
+    },
+    {
+      "csName": "cs_raeksmey",
+      "total": 3,
+      "play": 1,
+      "refill": 67.5,
+      "withdraw": 38.42,
+      "result": 29.08,
+      "members": [
+        {
+          "csName": "cs_raeksmey",
+          "username": "CKCCPKHP07",
+          "count": 2,
+          "refill": 50,
+          "withdraw": 38.42,
+          "result": 11.58,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_raeksmey",
+          "username": "CKCCPKHC05",
+          "count": 1,
+          "refill": 12.5,
+          "withdraw": 0,
+          "result": 12.5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_raeksmey",
+          "username": "mkp0004",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 43.08148148148148
+    },
+    {
+      "csName": "cs_seang",
+      "total": 3,
+      "play": 1,
+      "refill": 62,
+      "withdraw": 11.25,
+      "result": 50.75,
+      "members": [
+        {
+          "csName": "cs_seang",
+          "username": "mkc0022",
+          "count": 8,
+          "refill": 34.5,
+          "withdraw": 0,
+          "result": 34.5,
+          "remark": 1,
+          "isActive": true
+        },
+        {
+          "csName": "cs_seang",
+          "username": "CKCCPKHC45",
+          "count": 2,
+          "refill": 17.5,
+          "withdraw": 11.25,
+          "result": 6.25,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_seang",
+          "username": "CKCCPKHP05",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 81.85483870967742
+    },
+    {
+      "csName": "cs_nita",
+      "total": 1,
+      "play": 1,
+      "refill": 19,
+      "withdraw": 7,
+      "result": 12,
+      "members": [
+        {
+          "csName": "cs_nita",
+          "username": "mkc0014",
+          "count": 4,
+          "refill": 19,
+          "withdraw": 7,
+          "result": 12,
+          "remark": 1,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 63.1578947368421
+    },
+    {
+      "csName": "cs_rany",
+      "total": 1,
+      "play": 1,
+      "refill": 67.5,
+      "withdraw": 55,
+      "result": 12.5,
+      "members": [
+        {
+          "csName": "cs_rany",
+          "username": "ABPPBBAKI97",
+          "count": 9,
+          "refill": 67.5,
+          "withdraw": 55,
+          "result": 12.5,
+          "remark": 1,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 18.51851851851852
+    },
+    {
+      "csName": "cs_ahnich",
+      "total": 2,
+      "play": 0,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "members": [
+        {
+          "csName": "cs_ahnich",
+          "username": "mkc0010",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        },
+        {
+          "csName": "cs_ahnich",
+          "username": "mkc0012",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 100
+    },
+    {
+      "csName": "cs_saony",
+      "total": 1,
+      "play": 0,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "members": [
+        {
+          "csName": "cs_saony",
+          "username": "CKCCPKHC19",
+          "count": 1,
+          "refill": 5,
+          "withdraw": 0,
+          "result": 5,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 100
+    },
+    {
+      "csName": "cs_sasa",
+      "total": 1,
+      "play": 0,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "members": [
+        {
+          "csName": "cs_sasa",
+          "username": "mkp0009",
+          "count": 1,
+          "refill": 10,
+          "withdraw": 0,
+          "result": 10,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 100
+    },
+    {
+      "csName": "cs_teb",
+      "total": 1,
+      "play": 0,
+      "refill": 26,
+      "withdraw": 0,
+      "result": 26,
+      "members": [
+        {
+          "csName": "cs_teb",
+          "username": "CKCCPKHP03",
+          "count": 2,
+          "refill": 26,
+          "withdraw": 0,
+          "result": 26,
+          "remark": null,
+          "isActive": true
+        }
+      ],
+      "profitMargin": 100
+    }
+  ],
+  "allMembers": [
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC06",
+      "count": 13,
+      "refill": 133.75,
+      "withdraw": 166.25,
+      "result": -32.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC15",
+      "count": 13,
+      "refill": 30.62,
+      "withdraw": 30,
+      "result": 0.620000000000001,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHP14",
+      "count": 6,
+      "refill": 17.25,
+      "withdraw": 0,
+      "result": 17.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC04",
+      "count": 4,
+      "refill": 50,
+      "withdraw": 43.5,
+      "result": 6.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC42",
+      "count": 4,
+      "refill": 260,
+      "withdraw": 0,
+      "result": 260,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "ABPPBBAKT94",
+      "count": 3,
+      "refill": 15,
+      "withdraw": 25,
+      "result": -10,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC54",
+      "count": 3,
+      "refill": 8,
+      "withdraw": 8,
+      "result": 0,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHV16",
+      "count": 3,
+      "refill": 20,
+      "withdraw": 0,
+      "result": 20,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC95",
+      "count": 2,
+      "refill": 58.5,
+      "withdraw": 0,
+      "result": 58.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "ABPPBBDLB28",
+      "count": 2,
+      "refill": 6.75,
+      "withdraw": 0,
+      "result": 6.75,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "ABPPBBAKI82",
+      "count": 1,
+      "refill": 7.5,
+      "withdraw": 7.5,
+      "result": 0,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCAPKDC09",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_somphos",
+      "username": "CKCCPKHC57",
+      "count": 1,
+      "refill": 11.25,
+      "withdraw": 0,
+      "result": 11.25,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "mkc0015",
+      "count": 24,
+      "refill": 1694.22,
+      "withdraw": 988,
+      "result": 706.22,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHC10",
+      "count": 18,
+      "refill": 217.5,
+      "withdraw": 241,
+      "result": -23.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "ABPPBBAKP29",
+      "count": 13,
+      "refill": 80,
+      "withdraw": 43.75,
+      "result": 36.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHC22",
+      "count": 6,
+      "refill": 67.5,
+      "withdraw": 45,
+      "result": 22.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "ABPPBBAKI83",
+      "count": 5,
+      "refill": 220,
+      "withdraw": 282.5,
+      "result": -62.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHP02",
+      "count": 3,
+      "refill": 31.25,
+      "withdraw": 17.5,
+      "result": 13.75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHP12",
+      "count": 3,
+      "refill": 200,
+      "withdraw": 0,
+      "result": 200,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "ABPPBBAKP31",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "ABPPBBAKP32",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCAPKDC03",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHP01",
+      "count": 1,
+      "refill": 5.025,
+      "withdraw": 5,
+      "result": 0.02500000000000036,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHP22",
+      "count": 1,
+      "refill": 12.5,
+      "withdraw": 0,
+      "result": 12.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_chanry",
+      "username": "CKCCPKHV01",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHV08",
+      "count": 18,
+      "refill": 97.41,
+      "withdraw": 34.5,
+      "result": 62.91,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCAPKDC01",
+      "count": 16,
+      "refill": 48,
+      "withdraw": 21,
+      "result": 27,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC37",
+      "count": 13,
+      "refill": 97.25,
+      "withdraw": 76.25,
+      "result": 21,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC55",
+      "count": 13,
+      "refill": 286,
+      "withdraw": 121.5,
+      "result": 164.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHV12",
+      "count": 5,
+      "refill": 42,
+      "withdraw": 30,
+      "result": 12,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC23",
+      "count": 3,
+      "refill": 15,
+      "withdraw": 12.5,
+      "result": 2.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC58",
+      "count": 2,
+      "refill": 13.25,
+      "withdraw": 22.5,
+      "result": -9.25,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC89",
+      "count": 2,
+      "refill": 7.5,
+      "withdraw": 8.5,
+      "result": -1,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CFPY11KRP03",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC43",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHC52",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHP15",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 37.5,
+      "result": -27.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "CKCCPKHV15",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_mean",
+      "username": "mkv0012",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC70",
+      "count": 11,
+      "refill": 31.25,
+      "withdraw": 57.5,
+      "result": -26.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC20",
+      "count": 8,
+      "refill": 60,
+      "withdraw": 22,
+      "result": 38,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC59",
+      "count": 6,
+      "refill": 36.5,
+      "withdraw": 30,
+      "result": 6.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC11",
+      "count": 3,
+      "refill": 11.25,
+      "withdraw": 0,
+      "result": 11.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC17",
+      "count": 3,
+      "refill": 12.95,
+      "withdraw": 0,
+      "result": 12.95,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC26",
+      "count": 3,
+      "refill": 13.75,
+      "withdraw": 0,
+      "result": 13.75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC09",
+      "count": 2,
+      "refill": 42.5,
+      "withdraw": 0,
+      "result": 42.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC16",
+      "count": 2,
+      "refill": 7.5,
+      "withdraw": 0,
+      "result": 7.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "ABPPBBAKT14",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC63",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nich",
+      "username": "CKCCPKHC96",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC38",
+      "count": 9,
+      "refill": 22.5,
+      "withdraw": 21,
+      "result": 1.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC34",
+      "count": 6,
+      "refill": 62.75,
+      "withdraw": 33.25,
+      "result": 29.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC08",
+      "count": 4,
+      "refill": 45,
+      "withdraw": 42.5,
+      "result": 2.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC76",
+      "count": 4,
+      "refill": 25,
+      "withdraw": 50,
+      "result": -25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC13",
+      "count": 3,
+      "refill": 15.25,
+      "withdraw": 0,
+      "result": 15.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC27",
+      "count": 2,
+      "refill": 75,
+      "withdraw": 0,
+      "result": 75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "ABPPBBAKI80",
+      "count": 2,
+      "refill": 7,
+      "withdraw": 5,
+      "result": 2,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC18",
+      "count": 2,
+      "refill": 17.5,
+      "withdraw": 0,
+      "result": 17.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC49",
+      "count": 2,
+      "refill": 37.5,
+      "withdraw": 0,
+      "result": 37.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC12",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_zeiima",
+      "username": "CKCCPKHC66",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "CKCAPKDP08",
+      "count": 13,
+      "refill": 129.75,
+      "withdraw": 149,
+      "result": -19.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "CKCCPKH002",
+      "count": 5,
+      "refill": 15.75,
+      "withdraw": 0,
+      "result": 15.75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "CKCAPKDC07",
+      "count": 4,
+      "refill": 41,
+      "withdraw": 0,
+      "result": 41,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "CKCAPKDC12",
+      "count": 4,
+      "refill": 35,
+      "withdraw": 41,
+      "result": -6,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "CKCCPKHP09",
+      "count": 2,
+      "refill": 100,
+      "withdraw": 0,
+      "result": 100,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_theary",
+      "username": "ABPPBBAKI61",
+      "count": 1,
+      "refill": 25,
+      "withdraw": 12.5,
+      "result": 12.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "CKCCPKHC68",
+      "count": 9,
+      "refill": 60.25,
+      "withdraw": 45,
+      "result": 15.25,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "lup61v0010",
+      "count": 5,
+      "refill": 25,
+      "withdraw": 45,
+      "result": -20,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "CKCAPKDP06",
+      "count": 4,
+      "refill": 30,
+      "withdraw": 0,
+      "result": 30,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "CKCCPKHC80",
+      "count": 3,
+      "refill": 10,
+      "withdraw": 17.5,
+      "result": -7.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "ABPPBBDLP29",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "CKCCPKH004",
+      "count": 1,
+      "refill": 20,
+      "withdraw": 0,
+      "result": 20,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ryna",
+      "username": "mkp0008",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_reth",
+      "username": "lup61CH0028",
+      "count": 10,
+      "refill": 66,
+      "withdraw": 126,
+      "result": -60,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_reth",
+      "username": "CKCAPKDC32",
+      "count": 9,
+      "refill": 397.5,
+      "withdraw": 180,
+      "result": 217.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_reth",
+      "username": "CKCCPKHC35",
+      "count": 5,
+      "refill": 15,
+      "withdraw": 28.75,
+      "result": -13.75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_reth",
+      "username": "CKCAPKDC31",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_kimsorn",
+      "username": "CKCCPKHC71",
+      "count": 12,
+      "refill": 173.25,
+      "withdraw": 17.5,
+      "result": 155.75,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_kimsorn",
+      "username": "lup61CH0038",
+      "count": 1,
+      "refill": 300,
+      "withdraw": 0,
+      "result": 300,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_kimsorn",
+      "username": "CKCCPKHC30",
+      "count": 2,
+      "refill": 45,
+      "withdraw": 100,
+      "result": -55,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_kimsorn",
+      "username": "lup61CH0036",
+      "count": 2,
+      "refill": 20,
+      "withdraw": 0,
+      "result": 20,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_kimsorn",
+      "username": "CKCCPKHP11",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_phanna",
+      "username": "ABPPBBDLB30",
+      "count": 20,
+      "refill": 525,
+      "withdraw": 599,
+      "result": -74,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_phanna",
+      "username": "lup6111182",
+      "count": 3,
+      "refill": 35,
+      "withdraw": 63,
+      "result": -28,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_phanna",
+      "username": "hk00717",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_noy",
+      "username": "ABPPBBAKI95",
+      "count": 3,
+      "refill": 17.5,
+      "withdraw": 0,
+      "result": 17.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_noy",
+      "username": "bhc100",
+      "count": 3,
+      "refill": 8.3,
+      "withdraw": 0,
+      "result": 8.3,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_raeksmey",
+      "username": "CKCCPKHP07",
+      "count": 2,
+      "refill": 50,
+      "withdraw": 38.42,
+      "result": 11.58,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_raeksmey",
+      "username": "CKCCPKHC05",
+      "count": 1,
+      "refill": 12.5,
+      "withdraw": 0,
+      "result": 12.5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_raeksmey",
+      "username": "mkp0004",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_seang",
+      "username": "mkc0022",
+      "count": 8,
+      "refill": 34.5,
+      "withdraw": 0,
+      "result": 34.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_seang",
+      "username": "CKCCPKHC45",
+      "count": 2,
+      "refill": 17.5,
+      "withdraw": 11.25,
+      "result": 6.25,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_seang",
+      "username": "CKCCPKHP05",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_nita",
+      "username": "mkc0014",
+      "count": 4,
+      "refill": 19,
+      "withdraw": 7,
+      "result": 12,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_rany",
+      "username": "ABPPBBAKI97",
+      "count": 9,
+      "refill": 67.5,
+      "withdraw": 55,
+      "result": 12.5,
+      "remark": 1,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ahnich",
+      "username": "mkc0010",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_ahnich",
+      "username": "mkc0012",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_saony",
+      "username": "CKCCPKHC19",
+      "count": 1,
+      "refill": 5,
+      "withdraw": 0,
+      "result": 5,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_sasa",
+      "username": "mkp0009",
+      "count": 1,
+      "refill": 10,
+      "withdraw": 0,
+      "result": 10,
+      "remark": null,
+      "isActive": true
+    },
+    {
+      "csName": "cs_teb",
+      "username": "CKCCPKHP03",
+      "count": 2,
+      "refill": 26,
+      "withdraw": 0,
+      "result": 26,
+      "remark": null,
+      "isActive": true
+    }
+  ],
+  "parsedAt": "2026-08-13T17:52:28.893Z"
+}
