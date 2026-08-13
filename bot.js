@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import http from 'http';
 import TelegramBot from 'node-telegram-bot-api';
 import fs from 'fs';
 import path from 'path';
@@ -17,6 +18,15 @@ if (!token) {
   console.error('❌ Error: TELEGRAM_BOT_TOKEN is missing in .env');
   process.exit(1);
 }
+
+// 🌐 Lightweight HTTP Health Check Server for Render.com Port Binding (24/7 Live Status!)
+const port = process.env.PORT || 3000;
+http.createServer((req, res) => {
+  res.writeHead(200, { 'Content-Type': 'application/json' });
+  res.end(JSON.stringify({ status: 'ok', service: 'Telegram Bot Server 24/7' }));
+}).listen(port, () => {
+  console.log(`🌐 Health check server listening on port ${port}`);
+});
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -303,4 +313,4 @@ bot.on('document', async (msg) => {
   }
 });
 
-console.log('✅ Bot server ready: Robust /start listener & Auto CS Menu on Upload!');
+console.log('✅ Bot server ready with HTTP Health Check listening on port ' + port);
