@@ -1,5 +1,5 @@
 services:
-  - type: worker
+  - type: web
     name: report-cs-telegram-bot
     env: node
     plan: free
@@ -11,3 +11,5 @@ services:
         value: 8828936242:AAEjg4dj6aiSulWQ3AtbeniO7YOCS8rTjS8
       - key: WEBAPP_URL
         value: https://report-cs-mini-app.pages.dev
+      - key: RENDER_EXTERNAL_URL
+        value: https://csreport.onrender.com

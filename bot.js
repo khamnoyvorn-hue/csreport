@@ -13,22 +13,32 @@ const __dirname = path.dirname(__filename);
 
 const token = process.env.TELEGRAM_BOT_TOKEN;
 const webAppUrl = process.env.WEBAPP_URL || 'https://report-cs-mini-app.pages.dev';
+const renderUrl = process.env.RENDER_EXTERNAL_URL || process.env.WEBHOOK_URL || 'https://csreport.onrender.com';
 
 if (!token) {
   console.error('❌ Error: TELEGRAM_BOT_TOKEN is missing in .env');
   process.exit(1);
 }
 
-// 🌐 Lightweight HTTP Health Check Server for Render.com Port Binding (24/7 Live Status!)
-const port = process.env.PORT || 3000;
-http.createServer((req, res) => {
-  res.writeHead(200, { 'Content-Type': 'application/json' });
-  res.end(JSON.stringify({ status: 'ok', service: 'Telegram Bot Server 24/7' }));
-}).listen(port, () => {
-  console.log(`🌐 Health check server listening on port ${port}`);
-});
+// Detect whether running in Production (Render / Cloud) or Local environment
+const isProduction = Boolean(process.env.RENDER || process.env.RENDER_EXTERNAL_URL || process.env.NODE_ENV === 'production');
 
-const bot = new TelegramBot(token, { polling: true });
+let bot;
+
+if (isProduction) {
+  console.log(`🌐 Production environment detected. Enabling Telegram Webhook at ${renderUrl}/webhook`);
+  bot = new TelegramBot(token, { webHook: false });
+  
+  const webhookEndpoint = `${renderUrl.replace(/\/$/, '')}/webhook`;
+  bot.setWebhook(webhookEndpoint)
+    .then(() => console.log(`✅ Webhook registered with Telegram: ${webhookEndpoint}`))
+    .catch((err) => console.error('⚠️ Error registering Webhook with Telegram:', err?.message || err));
+} else {
+  console.log('💻 Local environment detected. Enabling Telegram Polling...');
+  bot = new TelegramBot(token, { polling: true });
+  // Clear any active webhook when running locally so polling receives all updates
+  bot.deleteWebhook().catch(() => {});
+}
 
 // Track last sent report message IDs per chat so we can clear old reports automatically
 const lastReportMessages = new Map();
@@ -47,7 +57,7 @@ async function clearOldReportMessages(chatId) {
   }
 }
 
-// Prevent Node.js process crashes on intermittent network timeouts or polling errors
+// Error handlers to prevent node process crashes
 bot.on('polling_error', (error) => {
   console.error('⚠️ Telegram Polling Warning:', error?.message || error);
 });
@@ -194,7 +204,7 @@ bot.on('message', async (msg) => {
   }
 });
 
-// 2. Callback Query Handler: Deletes menu message & sends photo WITHOUT bottom inline buttons (matching Image 1!)
+// 2. Callback Query Handler: Deletes menu message & sends photo WITHOUT bottom inline buttons
 bot.on('callback_query', async (query) => {
   const chatId = query.message.chat.id;
   const data = query.data;
@@ -313,4 +323,39 @@ bot.on('document', async (msg) => {
   }
 });
 
-console.log('✅ Bot server ready with HTTP Health Check listening on port ' + port);
+// HTTP Server for Health Check & Webhook ingestion
+const port = process.env.PORT || 3000;
+
+const server = http.createServer((req, res) => {
+  if (req.method === 'POST' && req.url === '/webhook') {
+    let body = '';
+    req.on('data', (chunk) => { body += chunk.toString(); });
+    req.on('end', () => {
+      try {
+        if (body) {
+          const update = JSON.parse(body);
+          bot.processUpdate(update);
+        }
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ status: 'ok' }));
+      } catch (err) {
+        console.error('⚠️ Webhook payload parse error:', err.message);
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ status: 'error', message: err.message }));
+      }
+    });
+    return;
+  }
+
+  // Health check response
+  res.writeHead(200, { 'Content-Type': 'application/json' });
+  res.end(JSON.stringify({
+    status: 'ok',
+    service: 'Telegram Bot Server 24/7',
+    mode: isProduction ? 'webhook' : 'polling'
+  }));
+});
+
+server.listen(port, () => {
+  console.log(`✅ Bot server ready on port ${port} (mode: ${isProduction ? 'webhook' : 'polling'})`);
+});
