@@ -12,6 +12,11 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /app
 
+# Explicit environment variables for Render Cloud Deployment
+ENV NODE_ENV=production
+ENV RENDER=true
+ENV RENDER_EXTERNAL_URL=https://csreport.onrender.com
+
 COPY package*.json ./
 RUN npm install --production
 

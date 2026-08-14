@@ -21,7 +21,12 @@ if (!token) {
 }
 
 // Detect whether running in Production (Render / Cloud) or Local environment
-const isProduction = Boolean(process.env.RENDER || process.env.RENDER_EXTERNAL_URL || process.env.NODE_ENV === 'production');
+const isProduction = Boolean(
+  process.env.RENDER ||
+  process.env.RENDER_EXTERNAL_URL ||
+  process.env.NODE_ENV === 'production' ||
+  (process.env.PORT && process.env.PORT !== '3000')
+);
 
 let bot;
 
